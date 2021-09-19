@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtherSajjad
-- 👀 I’m interested in building sass
+- 👀 I’m interested in building sass products
 - 🌱 I’m currently learning rust, supabase, go
 - 📫 How to reach me 
 
